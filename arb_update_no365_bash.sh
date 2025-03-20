@@ -4,7 +4,7 @@
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
 # Set the current directory to your project folder
-cd ~/Projects/NBA || exit
+cd ~/Documents/NBA || exit
 
 # Remove .json and .txt files in specific directories
 rm OddsScraper/Neds/*.json
